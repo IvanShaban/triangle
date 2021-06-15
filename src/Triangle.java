@@ -10,5 +10,6 @@ public class Triangle {
             return;
         }
         System.out.println("Результат: " + TypeOfTriangle.type(sides));
+        System.out.println();
     }
 }
